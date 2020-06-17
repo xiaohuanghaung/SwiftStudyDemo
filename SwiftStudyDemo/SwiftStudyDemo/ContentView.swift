@@ -10,7 +10,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("这么牛逼啊").font(.caption).fontWeight(.light).foregroundColor(Color.yellow).fixedSize(horizontal: true, vertical: false)
+        Text("这么牛逼啊。挖哈哈哈哈哈哈").font(.caption).fontWeight(.light).foregroundColor(Color.yellow).fixedSize(horizontal: true, vertical: false)
     }
 }
 
